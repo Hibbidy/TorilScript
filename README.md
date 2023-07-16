@@ -7,3 +7,4 @@ To install the TorilScript mpackage in Mudlet:
 3) Install New Package then select this profile
 4) Close the new profile
 5) Select the new profile and connect to the mud, you should be all set!
+6) Type: @help to bring up initial instructions and list of functions included with the script.
